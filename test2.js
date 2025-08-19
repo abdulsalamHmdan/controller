@@ -14,9 +14,13 @@ const app = express();
 
 // ضع هنا روابطك الخمسة
 const links = [
-    'https://utqsystem.com/',
-    'https://fayed.org.sa/',
-    'https://tqb.org.sa/portal/'
+    'https://youtube.com/shorts/PxU48dh-Qlc',
+    'https://youtube.com/shorts/WBh5mNcP6bg',
+    'https://youtube.com/shorts/glVS1fLopHc',
+    'https://youtube.com/shorts/AoucqvZgGGU',
+    'https://youtube.com/shorts/h21xRQnTqOo',
+    'https://youtube.com/shorts/4gnxaiQqDxE',
+    'https://youtube.com/shorts/OTenaEmFqSU',
 ];
 
 // مسار الجذر: يقوم بالتحويل العشوائي

@@ -16,11 +16,13 @@ app.use(cookieParser());
 
 // الروابط الخمسة
 const links = [
-  'https://example.com/1',
-  'https://example.com/2',
-  'https://example.com/3',
-  'https://example.com/4',
-  'https://example.com/5'
+  'https://youtube.com/shorts/PxU48dh-Qlc',
+  'https://youtube.com/shorts/WBh5mNcP6bg',
+  'https://youtube.com/shorts/glVS1fLopHc',
+  'https://youtube.com/shorts/AoucqvZgGGU',
+  'https://youtube.com/shorts/h21xRQnTqOo',
+  'https://youtube.com/shorts/4gnxaiQqDxE',
+  'https://youtube.com/shorts/OTenaEmFqSU',
 ];
 
 app.get('/', (req, res) => {
